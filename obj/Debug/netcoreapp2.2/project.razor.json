@@ -1,0 +1,95 @@
+{
+  "FilePath": "/Users/chachi/Desktop/C#/c_belt/c_belt.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "c_belt",
+  "Documents": [
+    {
+      "FilePath": "Views/Activity/New.cshtml",
+      "TargetPath": "Views/Activity/New.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Activity/ShowT.cshtml",
+      "TargetPath": "Views/Activity/ShowT.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Activity/Edit.cshtml",
+      "TargetPath": "Views/Activity/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Activity/ShowF.cshtml",
+      "TargetPath": "Views/Activity/ShowF.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/LogPartial.cshtml",
+      "TargetPath": "Views/Home/LogPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/RegPartial.cshtml",
+      "TargetPath": "Views/Home/RegPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Shared/_CookieConsentPartial.cshtml",
+      "TargetPath": "Views/Shared/_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/Index.cshtml",
+      "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Activity/Dashboard.cshtml",
+      "TargetPath": "Views/Activity/Dashboard.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Shared/Error.cshtml",
+      "TargetPath": "Views/Shared/Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/_ViewImports.cshtml",
+      "TargetPath": "Views/_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/_ViewStart.cshtml",
+      "TargetPath": "Views/_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Activity/Show.cshtml",
+      "TargetPath": "Views/Activity/Show.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
